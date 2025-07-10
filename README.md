@@ -82,7 +82,7 @@ WHERE rank_products <= 5;
 ```
 
 ![Top 5 Products by Revenue](images/top_5_products.png)
-*Replace this image with a screenshot of the query result from the ranking analysis script (06_ranking_analysis.sql).* 
+
 
 ### Customer Segmentation (VIP, Regular, New)
 
@@ -118,7 +118,7 @@ ORDER BY total_customers DESC;
 ```
 
 ![Customer Segmentation](images/customer_segmentation.png)
-*Replace this image with a screenshot of the segmentation result from the data segmentation script (10_data_segmentation.sql) or customer report (12_report_customers.sql).* 
+
 
 ### Year-over-Year Sales Trend
 
@@ -162,7 +162,7 @@ ORDER BY product_name, order_year;
 ```
 
 ![Year-over-Year Sales Trend](images/yearly_sales_trend.png)
-*Replace this image with a screenshot of the year-over-year sales trend from the performance analysis script (09_performance_analysis.sql).* 
+
 
 ### Category Contribution to Total Sales
 
@@ -187,7 +187,7 @@ ORDER BY total_sales DESC;
 ```
 
 ![Category Contribution](images/category_contribution.png)
-*Replace this image with a screenshot of the part-to-whole analysis result from script (11_part_to_whole_analysis.sql).* 
+
 
 ### Sample Customer Report
 
@@ -197,7 +197,7 @@ SELECT * FROM report_customers LIMIT 10;
 ```
 
 ![Sample Customer Report](images/sample_customer_report.png)
-*Replace this image with a screenshot of a few rows from the customer report view (12_report_customers.sql).* 
+
 
 ## Technologies
 

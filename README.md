@@ -2,7 +2,7 @@
 
 ## Overview
 
-Datavine is a comprehensive SQL analytics project designed to showcase advanced data modeling, reporting, and business intelligence skills. It demonstrates the full workflow of building a data warehouse, importing data, and performing deep business analysis using SQL.
+Datavine is a comprehensive SQL analytics project that models, analyzes, and reports on sales, customer, and product data using a robust MySQL data warehouse. It features advanced SQL techniques—including window functions, CTEs, and dynamic segmentation—to deliver actionable business insights and automated reporting. The project is fully automated for easy setup and reproducibility.
 
 ## Features
 
